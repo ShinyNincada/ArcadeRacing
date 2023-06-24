@@ -1,0 +1,216 @@
+{
+	"Mode" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"Leaderboard_1" : {
+		"__type" : "SaveManager+MapLeaderboard,Assembly-CSharp",
+		"value" : {
+			"mapId" : 1,
+			"leaderboard" : [
+				{
+					"name" : "P1",
+					"time" : 24
+				},{
+					"name" : "P1",
+					"time" : 25
+				},{
+					"name" : "OnlyBot",
+					"time" : 25
+				},{
+					"name" : "StillBot",
+					"time" : 25
+				},{
+					"name" : "BOT2",
+					"time" : 25
+				},{
+					"name" : "P1",
+					"time" : 30
+				},{
+					"name" : "P1",
+					"time" : 30
+				},{
+					"name" : "StillBot",
+					"time" : 33
+				},{
+					"name" : "BOT1",
+					"time" : 33
+				},{
+					"name" : "OnlyBot",
+					"time" : 33
+				}
+			]
+		}
+	},
+	"map" : {
+		"__type" : "System.Boolean[],mscorlib",
+		"value" : [
+			true,false,false,false,false
+		]
+	},
+	"gold" : {
+		"__type" : "int",
+		"value" : 744
+	},
+	"Leaderboard_5" : {
+		"__type" : "SaveManager+MapLeaderboard,Assembly-CSharp",
+		"value" : {
+			"mapId" : 5,
+			"leaderboard" : [
+				{
+					"name" : "P1",
+					"time" : 29
+				},{
+					"name" : "P1",
+					"time" : 33
+				},{
+					"name" : "StillBot",
+					"time" : 33
+				},{
+					"name" : "BOT2",
+					"time" : 38
+				},{
+					"name" : "StillBot",
+					"time" : 44
+				},{
+					"name" : "OnlyBot",
+					"time" : 47
+				},{
+					"name" : "P1",
+					"time" : 49
+				},{
+					"name" : "StillBot",
+					"time" : 51
+				},{
+					"name" : "P1",
+					"time" : 53
+				}
+			]
+		}
+	},
+	"Leaderboard_4" : {
+		"__type" : "SaveManager+MapLeaderboard,Assembly-CSharp",
+		"value" : {
+			"mapId" : 4,
+			"leaderboard" : [
+				{
+					"name" : "P1",
+					"time" : 2
+				},{
+					"name" : "P1",
+					"time" : 28
+				},{
+					"name" : "P1",
+					"time" : 32
+				},{
+					"name" : "P1",
+					"time" : 32
+				},{
+					"name" : "P1",
+					"time" : 34
+				},{
+					"name" : "OnlyBot",
+					"time" : 50
+				},{
+					"name" : "BOT1",
+					"time" : 58
+				}
+			]
+		}
+	},
+	"Leaderboard_3" : {
+		"__type" : "SaveManager+MapLeaderboard,Assembly-CSharp",
+		"value" : {
+			"mapId" : 3,
+			"leaderboard" : [
+				{
+					"name" : "P1",
+					"time" : 11
+				},{
+					"name" : "P1",
+					"time" : 32
+				},{
+					"name" : "P1",
+					"time" : 39
+				},{
+					"name" : "OnlyBot",
+					"time" : 39
+				},{
+					"name" : "BOT2",
+					"time" : 41
+				},{
+					"name" : "BOT2",
+					"time" : 42
+				},{
+					"name" : "StillBot",
+					"time" : 43
+				},{
+					"name" : "StillBot",
+					"time" : 43
+				},{
+					"name" : "P1",
+					"time" : 46
+				},{
+					"name" : "OnlyBot",
+					"time" : 48
+				}
+			]
+		}
+	},
+	"Leaderboard_2" : {
+		"__type" : "SaveManager+MapLeaderboard,Assembly-CSharp",
+		"value" : {
+			"mapId" : 2,
+			"leaderboard" : [
+				{
+					"name" : "P1",
+					"time" : 30
+				},{
+					"name" : "StillBot",
+					"time" : 30
+				},{
+					"name" : "OnlyBot",
+					"time" : 30
+				},{
+					"name" : "P1",
+					"time" : 32
+				},{
+					"name" : "StillBot",
+					"time" : 32
+				},{
+					"name" : "BOT1",
+					"time" : 32
+				},{
+					"name" : "OnlyBot",
+					"time" : 32
+				},{
+					"name" : "Test",
+					"time" : 37
+				},{
+					"name" : "P1",
+					"time" : 41
+				}
+			]
+		}
+	},
+	"MapUnlocked_5" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MapUnlocked_4" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MapUnlocked_2" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MapUnlocked_3" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MapUnlocked_1" : {
+		"__type" : "bool",
+		"value" : true
+	}
+}
